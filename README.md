@@ -10,14 +10,6 @@ Simulación de evacuación multiagente en una grilla con propagación de fuego y
 | Búsqueda informada | Greedy Best-First con distancia Manhattan | `greedy` |
 | Optimización bioinspirada | Algoritmo genético (implementación propia) | `genetico` |
 
-## Integrantes
-
-| Nombre | Rol / RUT | Correo |
-|---|---|---|
-| _Completar_ | | |
-| _Completar_ | | |
-| _Completar_ | | |
-
 ## Requisitos
 
 - **Python 3.12 o superior.** El código de búsqueda usa la sintaxis de genéricos `def f[T](...)`. Se probó con Python 3.14.
